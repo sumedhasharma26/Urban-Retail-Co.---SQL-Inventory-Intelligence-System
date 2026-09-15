@@ -1,4 +1,4 @@
-# Urban Retail Co. — Inventory Optimization & Demand Analytics
+# Urban Retail Co. - Inventory Optimization & Demand Analytics
 
 SQL-based inventory analytics for a mid-sized retail chain, with a Power BI dashboard on top. The project takes two years of daily store-product inventory records, normalizes them into a relational schema, and answers the operational questions a supply chain team actually asks: what is understocked, what is sitting too long, where are reorder points, and how much can we trust the demand forecast.
 
